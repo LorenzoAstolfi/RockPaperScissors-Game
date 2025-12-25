@@ -1,4 +1,4 @@
-# RockPaperScissors-Game 🎮 
+# RockPaperScissors Game 🎮 
 
 This is a simple project written in Python!
 
